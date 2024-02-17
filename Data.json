@@ -9,5 +9,7 @@
 "CONTROL":"OnlinAe",
 //Free Key
 "FREE":"ACTIVE",
-"ZENOTIT":"Checking Free Key :"
+"ZENOTIT":"Checking Free Key :",
+//Free Key OFF
+"Zenn":"ACTIVE"
 }
