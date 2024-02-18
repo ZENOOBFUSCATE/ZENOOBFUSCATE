@@ -1,6 +1,6 @@
 {
 //Login
-"ZENO":"NONE",
+"ZENO":"1Day",
 "ZENo":"2024-02-22",
 //Update
 "ZEno":"Warning :",
@@ -12,5 +12,5 @@
 "ZENOTIT":"Checking Free Key :",
 //Free Key OFF
 "Zenn":"Online",
-"COPY":"OFF"
+"COPY":"ON"
 }
